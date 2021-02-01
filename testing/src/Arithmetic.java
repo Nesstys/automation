@@ -13,5 +13,7 @@ public class Arithmetic {
         number2 = input.nextInt();
 
         sum = number1 + number2;
+
+        System.out.printf("Suma este %d%n",sum);
     }
 }
