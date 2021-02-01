@@ -9,8 +9,10 @@ public class Arithmetic {
         int sum;
         int dif;
 
+        System.out.print("Introduceti primul numar: ");
         number1 = input.nextInt();
 
+        System.out.print("Introduceti al doilea numar: ");
         number2 = input.nextInt();
 
         sum = number1 + number2;
