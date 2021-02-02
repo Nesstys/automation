@@ -15,5 +15,6 @@ public class Arithmetic {
         sum = number1 + number2;
 
         System.out.printf("Suma este %d%n",sum);
+        // suma numerelor
     }
 }
