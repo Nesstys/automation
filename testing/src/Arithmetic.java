@@ -19,6 +19,7 @@ public class Arithmetic {
         dif = number1 - number2;
 
         System.out.printf("Suma este %d%n",sum);
+        // suma numerelor
         System.out.printf("Diferenta este %d%n",dif);
     }
 }
