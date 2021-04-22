@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<animals>
+    <phylum classId="01" className="mammalia">
+        <order orderId="01">
+            <family>felidae</family>
+            <ordname>Carnivora</ordname>
+            <redbook>true</redbook>
+            <species>
+                <specie>Lion</specie>
+                <specie>Tiger</specie>
+                <specie>Raccoon</specie>
+            </species>
+        </order>
+        <order orderId="02">
+            <family>equidae</family>
+            <ordname>perissodactyla</ordname>
+            <redbook>true</redbook>
+            <species>
+                <specie>Zebra</specie>
+                <specie>Tapirs</specie>
+                <specie>Rhinoceros</specie>
+            </species>
+        </order>
+    </phylum>
+    <phylum classId="02" className="amphibia">
+        <order orderId="03">
+            <family>plethodontidae</family>
+            <ordname>urodela</ordname>
+            <redbook>true</redbook>
+            <species>
+                <specie>Tiger salamander</specie>
+                <specie>Sirens</specie>
+                <specie>Fire salamander</specie>
+            </species>
+        </order>
+    </phylum>
+</animals>

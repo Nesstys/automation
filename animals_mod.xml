@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<animals>
+    <phylum classId="02" className="amphibia">
+        <order orderId="03">
+            <family>plethodontidae</family>
+            <ordname>urodela</ordname>
+            <redbook>true</redbook>
+            <species>
+                <specie>Tiger salamander</specie>
+                <specie>Sirens</specie>
+                <specie>Fire salamander</specie>
+            </species>
+        </order>
+    </phylum>
+</animals>
